@@ -1,3 +1,5 @@
+> Note for my future employer - this repository was created as a Joke, so please, don't take it seriously
+
 # KitiKiti bot
 
 > Привет, я нищая (c) Kiti
